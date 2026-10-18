@@ -1,4 +1,21 @@
 # EID-Calculo-intermedio-integral-mediante-anti-derivada
 EID Cálculo intermedio
 
-#integrantes: Tomás mardones, Paula pasten, Catalina ojeda.
+# INTEGRANTES: 
+
+Tomás mardones, Paula pasten, Catalina ojeda.
+
+# ARCHIVOS, DEPENDENCIAS Y EJECUCION 
+
+Se uso un archivo llamado pruebas.py para desarrollar el codigo de manim
+
+La version usada de manim es la version 0.22.0 ademas, nuestra version de python es la 3.14, manim usa chocolatey para sus dependencias ademas de miktex para los textos
+
+para ejecutar el codigo, se tiene que abrir una consola en visual (o en la plataforma que se este usando), y se debe de poner este comando (verificar si te encuentras en la misma ruta que el archivo .py normalmente): manim -pql prueba.py IntegralAntiderivadas
+
+
+# DECLARACION de IA:
+
+Se utilizo Claude y Gemini como apoyo para hacer el codigo, como claude fue usado para guiarse en el codigo y su ejecucion, gemini se uso para orientarse en como usar manim y su instalacion.
+
+#REFERENCIAS
