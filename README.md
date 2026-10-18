@@ -1,6 +1,8 @@
 # EID-Calculo-intermedio-integral-mediante-anti-derivada
 EID Cálculo intermedio
 
+# PREGUNTA CENTRAL
+Porqué una integrada definida puede calcularse como F(b) - F(a)?.
 # INTEGRANTES: 
 
 Tomás mardones, Paula pasten, Catalina ojeda.
