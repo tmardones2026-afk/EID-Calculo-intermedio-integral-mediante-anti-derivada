@@ -5,6 +5,12 @@ EID Cálculo intermedio
 
 Tomás mardones, Paula pasten, Catalina ojeda.
 
+# CUENTAS
+
+tmardones2026-afk
+Pau-p2122
+c-ojeda
+
 # ARCHIVOS, DEPENDENCIAS Y EJECUCION 
 
 Se uso un archivo llamado pruebas.py para desarrollar el codigo de manim
