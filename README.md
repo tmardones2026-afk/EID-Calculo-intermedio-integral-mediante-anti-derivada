@@ -18,4 +18,12 @@ para ejecutar el codigo, se tiene que abrir una consola en visual (o en la plata
 
 Se utilizo Claude y Gemini como apoyo para hacer el codigo, como claude fue usado para guiarse en el codigo y su ejecucion, gemini se uso para orientarse en como usar manim y su instalacion.
 
-#REFERENCIAS
+# REFERENCIAS
+
+https://www.youtube.com/watch?v=SCKpUCax5ss
+video explicativo de julio profe para entender la materia.
+
+3Blue1Brown, capítulo 8 de Essence of Calculus: trata “Integration and the fundamental theorem of calculus”. Su descripción indica que parte del ejemplo del auto, sigue con las áreas bajo gráficos y llega al teorema. Tiene subtítulos en español. En el sitio aparece la serie; el capítulo 8 lo ubicas en YouTube con ese título.
+
+Khan Academy en español: guiandonos de un video sobre el teorema fundamental y las integrales definidas, con la segunda parte (F(b) − F(a)) para evaluar integrales.
+
