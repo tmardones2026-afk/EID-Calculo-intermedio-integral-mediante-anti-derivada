@@ -24,7 +24,7 @@ para ejecutar el codigo, se tiene que abrir una consola en visual (o en la plata
 
 # DECLARACION de IA:
 
-Se utilizo Claude y Gemini como apoyo para hacer el codigo, como claude fue usado para guiarse en el codigo y su ejecucion, gemini se uso para orientarse en como usar manim y su instalacion.
+Se utilizo Claude y Gemini como apoyo para hacer el codigo, como claude fue usado para guiarse en el codigo y su ejecucion, gemini se uso para orientarse en como usar manim y su instalacion, también se pidió ayuda para elaborar el guión del video.
 
 # REFERENCIAS
 
